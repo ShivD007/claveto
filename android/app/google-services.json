@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "837287008992",
+    "project_id": "fir-bc890",
+    "storage_bucket": "fir-bc890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837287008992:android:96e1ed7f9324885e2d8e85",
+        "android_client_info": {
+          "package_name": "com.claveto.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837287008992-3lnr77rrcmr468f1bvbudei1qj5ccstk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.claveto.customer",
+            "certificate_hash": "37faf7825a2d7c04407b16a5bc25289b4a318941"
+          }
+        },
+        {
+          "client_id": "837287008992-rfeav2sf156k90c86n3tl4rqmoot1peu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxuuXGfyJBR00alZ-hjzRWwnpohtnecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837287008992-rfeav2sf156k90c86n3tl4rqmoot1peu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837287008992:android:494fad4ccae04e0f2d8e85",
+        "android_client_info": {
+          "package_name": "com.example.claveto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837287008992-rfeav2sf156k90c86n3tl4rqmoot1peu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxuuXGfyJBR00alZ-hjzRWwnpohtnecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837287008992-rfeav2sf156k90c86n3tl4rqmoot1peu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837287008992:android:0609604ffc6233f92d8e85",
+        "android_client_info": {
+          "package_name": "com.infikeytechnologies.claveto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837287008992-vnn0p5e0i568g5kjamuqqvkjd5ot0isb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infikeytechnologies.claveto",
+            "certificate_hash": "37faf7825a2d7c04407b16a5bc25289b4a318941"
+          }
+        },
+        {
+          "client_id": "837287008992-rfeav2sf156k90c86n3tl4rqmoot1peu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxuuXGfyJBR00alZ-hjzRWwnpohtnecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837287008992-rfeav2sf156k90c86n3tl4rqmoot1peu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
